@@ -93,3 +93,7 @@ PS D:\AndroidStudioProjects\uber_app>
 Incase of a bug or you wish to make a contribution, create a new branch using the git command `git checkout -b <name of your branch>` and create a pull request. Wait for review.
 
 You can also open an issue using the `Issues` tab. The reported issue will be reviewed and a solution may be provided.
+
+## Source and attribution
+
+This independent repository is a copy of [morikeli/uber_app_client](https://github.com/morikeli/uber_app_client). The original Git commit history, authorship, and existing license notices have been preserved. Credit for the original project belongs to its original authors and contributors. This copy is maintained by [georges-mars](https://github.com/georges-mars).
